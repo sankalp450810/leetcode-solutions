@@ -32,4 +32,12 @@ My LeetCode problem solutions in C++
 | [1004-max-consecutive-ones-iii](https://github.com/sankalp450810/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
