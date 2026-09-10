@@ -40,9 +40,11 @@ My LeetCode problem solutions in C++
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/sankalp450810/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/sankalp450810/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
