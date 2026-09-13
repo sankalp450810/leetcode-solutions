@@ -43,11 +43,13 @@ My LeetCode problem solutions in C++
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/sankalp450810/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sankalp450810/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/sankalp450810/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sankalp450810/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
 |  |
 | ------- |
