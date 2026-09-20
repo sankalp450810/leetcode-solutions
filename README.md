@@ -48,6 +48,7 @@ My LeetCode problem solutions in C++
 | [0583-delete-operation-for-two-strings](https://github.com/sankalp450810/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sankalp450810/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3498-reverse-degree-of-a-string](https://github.com/sankalp450810/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/sankalp450810/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Dynamic Programming
 |  |
@@ -84,4 +85,8 @@ My LeetCode problem solutions in C++
 |  |
 | ------- |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/sankalp450810/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sankalp450810/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
