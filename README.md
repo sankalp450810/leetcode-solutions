@@ -9,6 +9,7 @@ My LeetCode problem solutions in C++
 | [0724-find-pivot-index](https://github.com/sankalp450810/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sankalp450810/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sankalp450810/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sankalp450810/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sankalp450810/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -29,6 +30,7 @@ My LeetCode problem solutions in C++
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sankalp450810/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sankalp450810/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +86,7 @@ My LeetCode problem solutions in C++
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sankalp450810/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/sankalp450810/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Simulation
 |  |
