@@ -21,6 +21,7 @@ My LeetCode problem solutions in C++
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sankalp450810/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sankalp450810/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sankalp450810/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/sankalp450810/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -92,4 +93,8 @@ My LeetCode problem solutions in C++
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/sankalp450810/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sankalp450810/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
