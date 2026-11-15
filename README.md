@@ -8,6 +8,7 @@ My LeetCode problem solutions in C++
 | ------- |
 | [0724-find-pivot-index](https://github.com/sankalp450810/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sankalp450810/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sankalp450810/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sankalp450810/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sankalp450810/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -21,6 +22,7 @@ My LeetCode problem solutions in C++
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sankalp450810/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sankalp450810/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sankalp450810/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sankalp450810/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/sankalp450810/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -42,6 +44,7 @@ My LeetCode problem solutions in C++
 | ------- |
 | [0724-find-pivot-index](https://github.com/sankalp450810/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sankalp450810/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sankalp450810/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sankalp450810/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -62,6 +65,7 @@ My LeetCode problem solutions in C++
 | [0583-delete-operation-for-two-strings](https://github.com/sankalp450810/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sankalp450810/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sankalp450810/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
