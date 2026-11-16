@@ -55,6 +55,7 @@ My LeetCode problem solutions in C++
 | [0583-delete-operation-for-two-strings](https://github.com/sankalp450810/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sankalp450810/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sankalp450810/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sankalp450810/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sankalp450810/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/sankalp450810/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -99,6 +100,7 @@ My LeetCode problem solutions in C++
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sankalp450810/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sankalp450810/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
