@@ -25,6 +25,7 @@ My LeetCode problem solutions in C++
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sankalp450810/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sankalp450810/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sankalp450810/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sankalp450810/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/sankalp450810/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -106,6 +107,7 @@ My LeetCode problem solutions in C++
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sankalp450810/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sankalp450810/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Indexed Tree
 |  |
 | ------- |
