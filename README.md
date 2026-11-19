@@ -11,6 +11,7 @@ My LeetCode problem solutions in C++
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sankalp450810/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sankalp450810/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sankalp450810/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sankalp450810/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sankalp450810/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -98,6 +99,7 @@ My LeetCode problem solutions in C++
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sankalp450810/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sankalp450810/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/sankalp450810/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Simulation
 |  |
@@ -107,6 +109,7 @@ My LeetCode problem solutions in C++
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sankalp450810/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sankalp450810/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sankalp450810/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Indexed Tree
