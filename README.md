@@ -13,6 +13,7 @@ My LeetCode problem solutions in C++
 | [2089-find-target-indices-after-sorting-array](https://github.com/sankalp450810/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sankalp450810/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sankalp450810/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sankalp450810/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -70,6 +71,7 @@ My LeetCode problem solutions in C++
 | [0940-distinct-subsequences-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sankalp450810/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sankalp450810/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sankalp450810/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +102,7 @@ My LeetCode problem solutions in C++
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sankalp450810/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sankalp450810/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sankalp450810/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/sankalp450810/leetcode-solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Simulation
 |  |
