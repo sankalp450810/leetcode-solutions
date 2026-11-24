@@ -15,6 +15,7 @@ My LeetCode problem solutions in C++
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sankalp450810/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sankalp450810/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sankalp450810/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sankalp450810/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sankalp450810/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -27,6 +28,7 @@ My LeetCode problem solutions in C++
 | [0836-rectangle-overlap](https://github.com/sankalp450810/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sankalp450810/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sankalp450810/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sankalp450810/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sankalp450810/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sankalp450810/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/sankalp450810/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -44,6 +46,7 @@ My LeetCode problem solutions in C++
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sankalp450810/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sankalp450810/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sankalp450810/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +91,7 @@ My LeetCode problem solutions in C++
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sankalp450810/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sankalp450810/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Longest Common Subsequence
 |  |
@@ -127,4 +131,8 @@ My LeetCode problem solutions in C++
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sankalp450810/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sankalp450810/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
